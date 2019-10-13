@@ -12,7 +12,7 @@ public class SessionImplementationDAO {
 
     private static final String EXTENSION = ".mm";
 
-    private static final String DIRECTORY = "/Users/Tamara/git/mastermind.mvp.pm/partidas";
+    private static final String DIRECTORY = "/Users/Ruben/git/mastermind_v3/partidas";
 
     private static File directory;
 
